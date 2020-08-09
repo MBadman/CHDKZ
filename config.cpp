@@ -169,3 +169,4 @@ class CfgWeapons
 			mass = 30;
 		};
 	};
+};
